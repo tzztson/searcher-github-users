@@ -6,7 +6,7 @@ function App() {
     <div>
       <button className="btn btn-info">Info</button>
       <button className="btn btn-success">Success</button>
-      <button className="btn btn-warning">Warning</button>
+      <button className="btn btn-accent">Warning</button>
       <button className="btn btn-error">Error</button>
     </div>
   );
